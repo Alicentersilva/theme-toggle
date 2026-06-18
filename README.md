@@ -21,3 +21,6 @@ Praticar manipulação do DOM, eventos e alterações visuais em páginas web ut
 ## Observação
 
 Projeto desenvolvido para fins de estudo e prática com base em um tutorial educacional.
+
+Acesse:
+https://alicentersilva.github.io/theme-toggle/
